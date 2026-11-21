@@ -244,8 +244,8 @@ p { margin-bottom: 0; }
 /* Footer */
 .site-footer { background:var(--bg-deep);border-top:1px solid var(--line);padding:65px 0 22px; }
 .footer-grid { display:grid;grid-template-columns:1.85fr 1fr 1fr 1fr;gap:45px; }
-.footer-brand-link { display:flex;align-items:center;width:208px;height:56px;overflow:visible; }
-.footer-brand-link img { display:block;width:208px;height:auto;object-fit:contain; }
+.footer-brand-link { display:flex;align-items:center;width:100px;height:56px;overflow:visible; }
+.footer-brand-link img { display:block;width:100px;height:auto;object-fit:contain; }
 .footer-brand p { max-width:235px;color:#8ca0af;font-size:11px;line-height:1.8;margin:12px 0 17px; }
 .footer-column { display:flex;flex-direction:column;align-items:start;gap:11px; }
 .footer-column h3 { font-size:12px;font-weight:760;margin:6px 0 9px; }
